@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Django
+*.log
+db.sqlite3
+staticfiles/
+media/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Nextflow
+.nextflow*
+work/
+.trace*
+.timeline*
+.report*
+.dag.*
+
+# Large bioinformatics files (DO NOT COMMIT)
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+*.vcf
+*.vcf.gz
+
+# OS/Editors
+.DS_Store
+.vscode/
+.idea/

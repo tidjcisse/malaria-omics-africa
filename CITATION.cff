@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "MALARIA-OMICS AFRICA"
+message: "If you use this software, please cite it."
+type: software
+authors:
+  - family-names: "Cissé"
+    given-names: "Tidjani"
+version: 0.1.0
+date-released: 2025-12-14
+url: "https://github.com/tidjcisse/malaria-omics-africa"
